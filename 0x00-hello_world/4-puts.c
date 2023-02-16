@@ -1,5 +1,6 @@
 #!/bin/bash
-int main ()
+gcc $CFILE
+int main()
 {
 	puts(""Programming is like building a multilingual puzzle")
 		return 0;
