@@ -2,8 +2,8 @@
 
 /**
  * creates a funtion that swaps the values of two intergers
- * a : interger to be swapped
- * b : interger to be swapped
+ * @a : interger to be swapped
+ * @b : interger to be swapped
  */
 void swap_int(int *a, int *b)
 {
