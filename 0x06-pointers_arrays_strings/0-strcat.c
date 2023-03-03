@@ -1,14 +1,11 @@
-#include < stdio.h >
-#include < conio.h >
-
+#include "main.h"
 /**
- * main - program will concatenate two strings
- * strcat will concatenate two strings
+ * _strcat - concatenates two strings
  * @dest: input value
  * @src: input value
- * return (0) always successful
+ *
+ * Return: void
  */
-
 char *_strcat(char *dest, char *src)
 {
 	int i;
