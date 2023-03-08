@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib>
+
 /*                                                                                                                                      
  * File: 0-puts_recursion.c                                                                                                                            
  */                                                                                                                                     
